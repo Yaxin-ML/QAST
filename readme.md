@@ -109,12 +109,16 @@ If you find our method useful, please consider citing our paper:
 
   ```
   @inproceedings{qastaaai2023,
-    title={Quality-Aware Self-Training on Differentiable Synthesis of Rare Relational Data},
-    author={Zhang, Chongsheng and Hou, Yaxin and Chen, Ke and Cao, Shuang and Fan, Gaojuan and Liu, Ji},
-    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-    volume={37},
-    number={5},
-    pages={6602--6611},
-    year={2023}
+    author       = {Chongsheng Zhang and
+                    Yaxin Hou and
+                    Ke Chen and
+                    Shuang Cao and
+                    Gaojuan Fan and
+                    Ji Liu},
+    title        = {Quality-Aware Self-Training on Differentiable Synthesis of Rare Relational
+                    Data},
+    booktitle    = {Proceedings of the AAAI Conference on Artificial Intelligence},
+    pages        = {6602--6611},
+    year         = {2023}
   }
   ```
