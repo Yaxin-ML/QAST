@@ -108,17 +108,18 @@ Under the folder “trained_model”, we have uploaded our trained models for th
 If you find our method useful, please consider citing our paper:
 
   ```
-  @inproceedings{qastaaai2023,
-    author       = {Chongsheng Zhang and
-                    Yaxin Hou and
-                    Ke Chen and
-                    Shuang Cao and
-                    Gaojuan Fan and
-                    Ji Liu},
-    title        = {Quality-Aware Self-Training on Differentiable Synthesis of Rare Relational
-                    Data},
-    booktitle    = {Proceedings of the AAAI Conference on Artificial Intelligence},
-    pages        = {6602--6611},
-    year         = {2023}
-  }
+  @inproceedings{QAST,
+  author       = {Chongsheng Zhang and
+                  Yaxin Hou and
+                  Ke Chen and
+                  Shuang Cao and
+                  Gaojuan Fan and
+                  Ji Liu},
+  title        = {Quality-Aware Self-Training on Differentiable Synthesis of Rare Relational
+                  Data},
+  booktitle    = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  volume       = {37},
+  pages        = {6602--6611},
+  year         = {2023}
+}
   ```
