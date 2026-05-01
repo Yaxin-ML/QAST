@@ -86,7 +86,7 @@ All codes are written by Python 3.8 with:
  
    To test the generator with the trained model(CWRU Bearing)
 
-  ```
+   ```
    python QAST_test.py --dataset CWRU_Bearing_Dataset_1_20
    ```
 
