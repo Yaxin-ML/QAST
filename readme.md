@@ -97,6 +97,7 @@ All codes are written by Python 3.8 with:
    ```
 
 ## Our Trained models
+
 Under the folder “trained_model”, we have uploaded our trained models for the CWRU Bearing Dataset. 
 
 *  Generation model is at `./trained_model/stage-1/`
